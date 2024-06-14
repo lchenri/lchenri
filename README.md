@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Henrique</h1>
+<h1 align="center">Hi 👋, I'm Lucas Henrique.</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp">
 
