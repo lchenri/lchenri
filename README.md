@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Henrique</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/fetch/w300-preview/b9/b93c76b7a97212c68210dcf8301b12c6.gif">
 
 - 🌱 I’m currently learning **Spring Boot, NextJS and code refactoring.**
 
