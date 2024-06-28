@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring Framework, NextJS and code refactoring.**
 
-- 💬 Ask me about **Java, C#, PHP, Unity.**
+- 💬 Ask me about **Java, C#, PHP, Unity, Python.**
 
 - 📫 How to reach me **lucasbonicardoso@outlook.com**
 
