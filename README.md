@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp">
 
-- 🌱 I’m currently learning **Spring Framework, Django and code refactoring.**
+- 🌱 I’m currently studying **Spring Framework, Django and code refactoring.**
 
-- 💬 Ask me about **Java, C#, PHP, Unity, Python.**
+- 💬 Ask me about **Java, Python, C#, Unity.**
 
 - 📫 How to reach me **lucasbonicardoso@outlook.com**
 
